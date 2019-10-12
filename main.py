@@ -1,5 +1,4 @@
 import telebot
-import logging
 from settings.settings import token, apiHash, apiToken, admins, botApiUrl
 import functions.functions as func
 import json
